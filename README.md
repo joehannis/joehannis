@@ -46,12 +46,6 @@ Client management - Managing 50+ stakeholders (parents, adult clients, music age
 Time management - Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.
 
 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
 #### Another skill
 
 - I achieved A during my work at B (job, or otherwise)
@@ -84,5 +78,6 @@ I honed my communication skills while completing my thesis at university, which 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Homebrewer - My biggest hobby, I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
+Gaming - Mainly on my Xbox series X
+Travel - 30 + countries and counting
