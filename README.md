@@ -78,6 +78,6 @@ Time management - Managing 43+ lessons a week, lesson planning, prep work for gi
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-Homebrewer - My biggest hobby, I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
-Gaming - Mainly on my Xbox series X
-Travel - 30 + countries and counting
+- Homebrewer - My biggest hobby, I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
+- Gaming - Mainly on my Xbox series X
+- Travel - 30 + countries and counting
