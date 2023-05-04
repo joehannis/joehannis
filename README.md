@@ -1,6 +1,12 @@
-## Your Name
+## Joe Hannis
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+### Full Stack Development student. Won a Scholarship on one of the most selective dev bootcamps in the world, after having run my own business as a professional musician for 10 years.
+
+After 10 years working as a professional musician and tutor to clients all over the world, I found myself yearning for a new challenge in an exciting, ever evolving industry. I have always loved tech, from building gaming PCs with my brother as a kid to using Raspberrry Pi's to set up a dockerised media centre in my home. When I get onto a challenge, I struggle to put it down. 
+
+I'm an autodictat. I taught myself to play guitar, passed grade 8 and gained a place at university, which gave me a 10 year career. I taught myself how to navigate a commandline and use docker, and then the code that I needed to apply for the Makers scholarship. After a month of learning, I passed the technical requirements with a score of 100 percent. 10 percent of candidates are selected for the bootcamp, and a fraction of those gain a scholarshgip for free study.
+
+I love the process of learning, and in development, the learning never stops.
 
 ## Projects
 
@@ -11,8 +17,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Joe Hannis Guitar Ltd (June 2013 - May 2023)  
+Director
+
+- Live performance
+- Session musician on recording sessions
+- Music production using Logic Pro X, Pro Tools.
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -23,9 +33,20 @@ _Your job title_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+Problem solving - Working out a path for clients to achieve their goals, pivoting with their requests or ability, while ensuring results.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Applied creativity - Finding ways to be creative within the framework of a client’s work or ideas. E.g. Reworking or reimagining songs to fit a client brief in a studio production environment.
+
+Tech awareness - The music industry is constantly evolving in the technology it uses, and some of these technologies come with a steep learning curve. Being able to navigate these technologies quickly, learn to use them effectively and adapt to your needs in high pressure situations is an integral part of the job.
+
+Interpersonal & communication skills - Conveying complex concepts and practical applications to a range of students ages 6-75 (including neurodivergent and SEN students). Working as part of a team and managing relationships in a high pressure environment.
+
+Business management - Negotiating contracts, pay and conditions, relevant paperwork.
+
+Client management - Managing 50+ stakeholders (parents, adult clients, music agencies, studios) requiring timely updates.
+
+Time management - Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.
+
 
 
 Here's an example
