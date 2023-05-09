@@ -2,7 +2,7 @@
 
 ### Full Stack Development Student
 
-### Gained a Scholarship on one of the most selective dev bootcamps in the world, after running my business as a professional musician and educator for 10 years.
+###  Gained a Scholarship on one of the most selective dev bootcamps in the world, after running my business as a professional musician and educator for 10 years.
 
 After 10 years working as a professional musician and tutor to clients all over the world, I found myself yearning for a new challenge in an exciting, ever evolving industry. I have always loved tech, from building gaming PCs with my brother as a kid to using Raspberrry Pi's to set up a dockerised media centre in my home. When I get onto a challenge, I struggle to put it down. 
 
@@ -45,20 +45,9 @@ Client management - Managing 50+ stakeholders (parents, adult clients, music age
 
 Time management - Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.
 
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2023 to August 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -67,15 +56,13 @@ Time management - Managing 43+ lessons a week, lesson planning, prep work for gi
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### BA(Hons) in Professional Musicianship - Bristol Institute of Modern Music (September 2010 - June 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Grade 8 Electric Guitar -RSL
+Grade 5 Jazz Alto Saxophone - ABRSM
 
 ## Hobbies
 - Homebrewer - My biggest hobby, I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
