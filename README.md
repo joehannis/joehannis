@@ -10,7 +10,7 @@ I'm an autodictat. I taught myself to play guitar, passed grade 8 and gained a p
 
 I love the process of learning, and in development, the learning never stops.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joehannis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joehannis&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Work Experience
 
