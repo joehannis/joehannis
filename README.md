@@ -51,8 +51,8 @@ Time management - Managing 43+ lessons a week, lesson planning, prep work for gi
 
 #### Any other qualifications
 
-Grade 8 Electric Guitar -RSL
-Grade 5 Jazz Alto Saxophone - ABRSM
+- RSL Grade 8 Electric Guitar
+- ABRSM Grade 5 Jazz Alto Saxophone
 
 ## Hobbies
 - Homebrewer - My biggest hobby, I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
