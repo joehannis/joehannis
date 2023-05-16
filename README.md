@@ -1,4 +1,4 @@
-## Joe Hannis
+# Joe Hannis
 
 ### Full Stack Development Student
 
@@ -10,12 +10,7 @@ I'm an autodictat. I taught myself to play guitar, passed grade 8 and gained a p
 
 I love the process of learning, and in development, the learning never stops.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joehannis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work Experience
 
@@ -48,14 +43,9 @@ Time management - Managing 43+ lessons a week, lesson planning, prep work for gi
 ## Education
 
 #### Makers Academy (April 2023 to August 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
+- Proficient in Ruby
+- Using TDD and agile practices
+- Focus on paired progrmming and team work
 #### BA(Hons) in Professional Musicianship - Bristol Institute of Modern Music (September 2010 - June 2013)
 
 
