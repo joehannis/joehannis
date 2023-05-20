@@ -1,4 +1,6 @@
-<p style="text-align: center;">Joe Hannis</p>
+<p align="center">
+Joe Hannis
+</p>
 
 <p style="text-align: center;">Full Stack Development Student</p>
 
