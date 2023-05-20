@@ -16,7 +16,7 @@ I love the process of learning, and in development, the learning never stops.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Takeaway App**}(https://tinyurl.com/am7jnfed)            | A webapp to do x. | React, Jest, etc. |
+| [**Takeaway App**](https://tinyurl.com/am7jnfed)            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
