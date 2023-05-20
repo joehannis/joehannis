@@ -1,6 +1,6 @@
-#                                                                 Joe Hannis
+# Joe Hannis
 
-##                                                      Full Stack Development Student
+## Full Stack Development Student
 
 ###  Gained a Scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
 
