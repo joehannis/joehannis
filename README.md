@@ -14,14 +14,10 @@ I love the process of learning, and in development, the learning never stops.
 
 ## Projects
 
-| Name           | Description               | Tech/tools    |
-| ---------------| ------------------------- | --------------|                                                                                       |                |                           |               |
-|[Takeaway App](https://shorturl.at/mzGT9|| An ordering system        |  Ruby, Twilio |
-|                                                                                                | for a takeaway restaurant.|               |
-|                                                                                                | Generates receipts and a  |               |
-|                                                                                                | text confirmation using   |               |
-|                                                                                                | 'twilio'.                 |               |
-| ---------------------------------------------------------------------------------------------- | ------------------------- | ------------- |
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [**Takeaway App**}(https://tinyurl.com/am7jnfed)            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
