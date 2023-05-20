@@ -12,6 +12,17 @@ I love the process of learning, and in development, the learning never stops.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joehannis&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+## Projects
+
+| Name                                                                                           | Description               | Tech/tools    |
+| ---------------------------------------------------------------------------------------------  | ------------------------- | --------------|        |                                                                                                |                           |               |
+| [Takeaway App](https://github.com/joehannis/gs-skill-challenges/tree/main/takeaway-challenge))|| An ordering system        |  Ruby, Twilio |
+|                                                                                                | for a takeaway restaurant.|               |
+|                                                                                                | Generates receipts and a  |               |
+|                                                                                                | text confirmation using   |               |
+|                                                                                                | 'twilio'.                 |               |
+| ---------------------------------------------------------------------------------------------- | ------------------------- | ------------- |
+
 ## Work Experience
 
 Joe Hannis Guitar Ltd (June 2013 - May 2023)  
