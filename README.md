@@ -16,7 +16,7 @@ I love the process of learning, and in development, the learning never stops.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Takeaway App**](https://tinyurl.com/am7jnfed)            | A takeaway app that takes an order, generates a receipt,and then send a confirmation text message using 'twilio'   | Ruby, Twilio |
+| [**Takeaway App**](https://tinyurl.com/am7jnfed)            | A takeaway app that takes an order,  generates a receipt, and then send a confirmation text message using 'twilio'   | Ruby, Twilio |
 ## Work Experience
 
 Joe Hannis Guitar Ltd (June 2013 - May 2023)  
