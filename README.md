@@ -1,5 +1,5 @@
 <p align="center">
-# Joe Hannis
+**Joe Hannis**
 </p>
 <p align="center">
 ### Full Stack Development Student
