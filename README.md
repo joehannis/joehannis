@@ -14,8 +14,8 @@ I love the process of learning, and in development, the learning never stops.
 
 ## Projects
 
-| Name                                                                                           | Description               | Tech/tools    |
-| ---------------------------------------------------------------------------------------------  | ------------------------- | --------------|        |                                                                                                |                           |               |
+| Name           | Description               | Tech/tools    |
+| ---------------| ------------------------- | --------------|                                                                                       |                |                           |               |
 | [Takeaway App](https://github.com/joehannis/gs-skill-challenges/tree/main/takeaway-challenge))|| An ordering system        |  Ruby, Twilio |
 |                                                                                                | for a takeaway restaurant.|               |
 |                                                                                                | Generates receipts and a  |               |
