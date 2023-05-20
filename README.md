@@ -1,6 +1,6 @@
-<p align="center">
-**Joe Hannis**
-</p>
+<p align="center"><strong>
+Joe Hannis
+</strong></p>
 <p align="center">
 ### Full Stack Development Student
 </p>
