@@ -1,4 +1,4 @@
-<p align="center"><strong><font size=”30”>
+<p align="center"><strong><font size=”90”>
 Joe Hannis
 </font size></strong></p>
 <p align="center"><strong>
