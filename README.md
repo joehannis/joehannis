@@ -1,6 +1,5 @@
-<font size=”90”><p align="center"><strong>
-Joe Hannis
-</strong></p></font>
+<font size=”90”>
+Joe Hannis</font>
 <p align="center"><strong>
 Full Stack Development Student
 </strong></p>
