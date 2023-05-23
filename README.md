@@ -4,6 +4,8 @@
 
 ###  Gained a Scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
 
+[Blog](https://tinyurl.com/aed4n982)  [LinkedIn](https://www.linkedin.com/in/joe-hannis/)
+
 After 10 years working as a professional musician and tutor to clients all over the world, I found myself yearning for a new challenge in an exciting, ever evolving industry. I have always loved tech, from building gaming PCs with my brother as a kid to using Raspberrry Pi's to set up a dockerised media centre in my home. When I get onto a challenge, I struggle to put it down. 
 
 I'm an autodictat. I taught myself to play guitar, passed grade 8 and gained a place at university. I taught myself how to navigate a commandline and use docker, and then the code that I needed to apply for the Makers scholarship. After a month of learning, I passed the technical requirements with a score of 100 percent. 10 percent of candidates are selected for the bootcamp, and a fraction of those gain a scholarship for free study.
