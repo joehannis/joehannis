@@ -3,7 +3,7 @@
 ## Full Stack Development Student
 
 ###  Gained a Scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
-
+|                |                |
 |----------------|----------------|
 |[Blog](https://tinyurl.com/aed4n982) |[LinkedIn](https://www.linkedin.com/in/joe-hannis/)|
 
