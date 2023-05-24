@@ -33,7 +33,7 @@ Director
 
 ## Skills
 
-Problem solving - Working out a path for clients to achieve their goals, pivoting with their requests or ability, all the while ensuring results.
+*Problem solving* - Working out a path for clients to achieve their goals, pivoting with their requests or ability, all the while ensuring results.
 
 Explaining complicated concepts - Music is formulaic and rule based, with it's own syntax (like code!). Being able to explain these sometimes difficult concepts to students in a way that they can not only understand but then apply to their own work was a key part of my job.
 
