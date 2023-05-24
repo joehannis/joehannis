@@ -4,9 +4,9 @@
 
 ###  Gained a Scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
 
-|----------------|----------------|
+
 |[Blog](https://tinyurl.com/aed4n982) |[LinkedIn](https://www.linkedin.com/in/joe-hannis/)|
-|                |                |
+
 
 After 10 years working as a professional musician and tutor to clients all over the world, I found myself yearning for a new challenge in an exciting, ever evolving industry. I have always loved tech, from building gaming PCs with my brother as a kid to using Raspberrry Pi's to set up a dockerised media centre in my home, managed using kubernetes. When I get onto a challenge, I struggle to put it down. 
 
