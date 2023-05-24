@@ -57,7 +57,7 @@ Director
 #### BA(Hons) in Professional Musicianship - Bristol Institute of Modern Music (September 2010 - June 2013)
 
 
-#### Any other qualifications
+#### Other qualifications
 
 - RSL Grade 8 Electric Guitar
 - ABRSM Grade 5 Jazz Alto Saxophone
