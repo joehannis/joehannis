@@ -33,21 +33,19 @@ Director
 
 ## Skills
 
-*Problem solving* - Working out a path for clients to achieve their goals, pivoting with their requests or ability, all the while ensuring results.
+**Problem solving** - Working out a path for clients to achieve their goals, pivoting with their requests or ability, all the while ensuring results.
 
-Explaining complicated concepts - Music is formulaic and rule based, with it's own syntax (like code!). Being able to explain these sometimes difficult concepts to students in a way that they can not only understand but then apply to their own work was a key part of my job.
+**Explaining complicated concepts** - Music is formulaic and rule based, with its own syntax (like code!). Being able to explain these sometimes difficult concepts to students in a way that they can not only understand but then apply to their own work was a key part of my job.
 
-Applied creativity - Finding ways to be creative within the framework of a client’s work or ideas. E.g. Reworking or reimagining songs to fit a client brief in a studio production environment.
+**Applied creativity** - Finding ways to be creative within the framework of a client’s work or ideas. E.g. Reworking or reimagining songs to fit a client brief in a studio production environment.
 
-Tech awareness - The music industry is constantly evolving in the technology it uses, and some of these technologies come with a steep learning curve. Being able to navigate these technologies quickly, learn to use them effectively and adapt to your needs in high pressure situations is an integral part of the job.
+**Tech awareness** - The music industry is constantly evolving in the technology it uses, and some of these technologies come with a steep learning curve. Being able to navigate these technologies quickly, learn to use them effectively and adapt to your needs in high pressure situations is an integral part of the job.
 
-Interpersonal & communication skills - Conveying complex concepts and practical applications to a range of students ages 6-75 (including neurodivergent and SEN students). Working as part of a team and managing relationships in a high pressure environment such as on stage or in a recording session.
+**Interpersonal & communication skills** - Conveying complex concepts and practical applications to a range of students ages 6-75 (including neurodivergent and SEN students). Working as part of a team and managing relationships in a high pressure environment such as on stage or in a recording session.
 
-Business management - Being organised and negotiating contracts, pay and conditions, relevant paperwork. Ensuring tax information is filed correctly and on time, and documentation is maintained.
+**Client management** - Managing 50+ stakeholders (parents, adult clients, music agencies, studios) requiring timely updates.
 
-Client management - Managing 50+ stakeholders (parents, adult clients, music agencies, studios) requiring timely updates.
-
-Time management - Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.
+**Time management** - Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.
 
 ## Education
 
@@ -65,6 +63,6 @@ Time management - Managing 43+ lessons a week, lesson planning, prep work for gi
 - ABRSM Grade 5 Jazz Alto Saxophone
 
 ## Hobbies
-- Homebrewer - I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
+- Homebreweing - I brew around 200 litres of beer a year in many different styles, entering competitions and being part of a local homebrewing club.
 - Gaming - Mainly on my Xbox series X
 - Travel - 30 + countries and counting
