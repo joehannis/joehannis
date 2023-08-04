@@ -20,7 +20,7 @@ I love the process of learning, and in development, the learning never stops.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Takeaway App**](https://tinyurl.com/am7jnfed)            | A takeaway app that takes an order,  generates a receipt, and then sends a confirmation text message using 'twilio'   | Ruby,RSpec,Twilio |
+| [**Trail**](https://trailapp.net)            | An app to discover the world around you, creating audioguides and guided tours using AI | React, HTML, CSS, Javascript [GitHub Link](https://tinyurl.com/a5vmybxs) |
 | [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A twiter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby,Rspec,PostgreSQL |
 ## Work Experience
 
@@ -51,7 +51,7 @@ Director
 ## Education
 
 #### Makers Academy (April 2023 to August 2023)
-- Proficient in Ruby and SQL
+- Proficient in React, Javascript, Ruby, HTML, CSS, MongoDB and SQL
 - Using TDD and agile practices
 - Focus on paired programming and team work
 
