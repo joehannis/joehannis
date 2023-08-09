@@ -21,7 +21,7 @@ I love the process of learning, and in development, the learning never stops.
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Trail**](https://trailapp.net)            | An app to discover the world around you, creating audioguides and guided tours using AI | React, HTML, CSS, Javascript [GitHub Link](https://tinyurl.com/a5vmybxs) |
-| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A twiter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby,Rspec,PostgreSQL |
+| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A twiter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby,Rspec,PostgreSQL,HTML,CSS |
 ## Work Experience
 
 Joe Hannis Guitar Ltd (June 2013 - May 2023)  
