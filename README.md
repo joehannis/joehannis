@@ -44,7 +44,7 @@ I love the process of learning, and in development, the learning never stops.
 | ---------------------------- | ----------------- | ----------------- |
 | [**Trail**](https://trailapp.net)            | An app to discover the world around you, creating audioguides and guided tours using AI | React, Node.js, JavaScript, HTML, CSS, Google Cloud, ChatGPT [GitHub Link](https://tinyurl.com/a5vmybxs) |
 | [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A twiter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby,Rspec,PostgreSQL,HTML,CSS |
-| [**Taplist Integration Wizard**](https://tinyurl.com/2p8umkyf)                 |Solo hobby project, a React site to support my brewing hobby. The site integrates with [taplist.io](https://taplist.io) so that I can use API calls to track keg levels and know when I need to brew again. The remaining keg volume is displayed on my digital taplist.   | React, Node.js, JavaScript, HTML, CSS |
+| [**Taplist Integration Wizard**](https://tinyurl.com/26pfusx3))                 |Solo hobby project, a React site to support my brewing hobby. The site integrates with [taplist.io](https://taplist.io) so that I can use API calls to track keg levels and know when I need to brew again. The remaining keg volume is displayed on my digital taplist.   | React, Node.js, JavaScript, HTML, CSS |
 
 ## Work Experience
 
