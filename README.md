@@ -15,7 +15,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?style=flat-square)
-![Sinatra](https://img.shields.io/badge/-Sinatra-brightgreen?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square)
 ![PostGreSQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![APIs](https://img.shields.io/badge/-APIs-00599C?style=flat-square)
