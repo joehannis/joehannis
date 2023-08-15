@@ -4,6 +4,29 @@
 
 ###  Gained a scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
 
+### Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
+![RSpec](https://img.shields.io/badge/-RSpec-red?style=flat-square)
+![Sinatra](https://img.shields.io/badge/-Sinatra-brightgreen?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostGreSQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/-APIs-00599C?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![TDD](https://img.shields.io/badge/-TDD-8A2BE2?style=flat-square)
+![Pair Programming](https://img.shields.io/badge/-Pair%20Programming-blueviolet?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-FFA500?style=flat-square)
+![Team Work](https://img.shields.io/badge/-Team%20Work-brightgreen?style=flat-square)
+![Agile](https://img.shields.io/badge/-Agile-47CC00?style=flat-square)
+
 
 | [Blog](https://tinyurl.com/aed4n982)  | [LinkedIn](https://www.linkedin.com/in/joe-hannis/) | [Projects](https://github.com/joehannis/joehannis/blob/master/README.md#projects) | [Skills](https://github.com/joehannis/joehannis/blob/master/README.md#skills) |
 
