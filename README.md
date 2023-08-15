@@ -36,7 +36,7 @@ I'm an autodidact. I taught myself to play guitar, passed grade 8 and gained a p
 
 I love the process of learning, and in development, the learning never stops.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joehannis&theme=transparent-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joehannis&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ## Projects
 
