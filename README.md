@@ -2,7 +2,7 @@
 
 ## Full Stack Development Student
 
-###  Gained a scholarship on one of the most selective dev bootcamps in the world after running my business as a professional musician and educator for 10 years.
+###  Gained a scholarship on one of the most selective dev bootcamps in the world after running my business as a music educator and performer for 10 years.
 
 ### Technologies & Tools
 
