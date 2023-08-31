@@ -16,7 +16,6 @@
   <a href="https://tinyurl.com/aed4n982">Blog</a>  | 
   <a href="https://www.linkedin.com/in/joe-hannis/">LinkedIn</a> | 
   <a href="https://github.com/joehannis/joehannis/blob/master/README.md#projects">Projects</a> | 
-  <a href="https://github.com/joehannis/joehannis/blob/master/README.md#skills">Skills</a>
 </p>
 
 
