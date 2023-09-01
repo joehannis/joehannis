@@ -19,7 +19,11 @@
 </p>
 
 
-After 10 years as a music teacher and musician, I'm dedicated to a career change in software development with ever evolving challenges and continued learning. I have always loved tech, from building gaming PCs with my brother as a kid to using a Raspberry Pi to set up a Kubernetes managed media centre in my home. Technology is the driving force of progress and underpins so much of our lives, so I find the fast paced and limitlessly diverse industry fascinating. When I get into a challenge, I struggle to put it down and am highly self motivated. I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. I graduated Makers (after receiving a scholarship) developing skills in Node.JS, React, JavaScript and Ruby, and I haven't stopped coding every day since. I am looking for a job with opportunities for collaboration and problem solving. 
+Full Stack Software Engineer, scholarship gradate from Makers Academy and career changer with 10 years experience in music production, teaching and business management.
+
+I'm fascinated by how technology is the driving force of progress and underpins so much of our lives. When I get into a challenge, I struggle to put it down and am highly self motivated. I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. 
+
+I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I haven't stopped coding every day since. I am looking for a job with opportunities for collaboration, learning and problem solving. 
 
 <h2 align="center">Projects</h2>
 
