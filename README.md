@@ -23,7 +23,7 @@ Full Stack Software Engineer, scholarship gradate from Makers Academy and career
 
 I am excited for a career in tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and once I get stuck into a problem, I keep at it until it's solved . I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. 
 
-I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I haven't stopped coding every day since. I am looking for a job with opportunities for collaboration, learning and room to grow. 
+I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I have coded every day since. I am looking for a job with opportunities for collaboration, learning and room to grow. 
 
 <h2 align="center">PROJECTS</h2>
 
