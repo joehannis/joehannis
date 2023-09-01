@@ -36,7 +36,7 @@ I graduated from Makers bootcamp having developed skills in Node.JS, React, Java
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
 During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:
-Javascript, Node.js, React,  Jest, Cypress,, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb.
+Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb.
 Version control through Git and GitHub
 Paired programming - practised everyday, with pairs cycled to include every member of the cohort. 
 I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
