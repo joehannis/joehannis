@@ -21,7 +21,7 @@
 
 Full Stack Software Engineer, scholarship gradate from Makers Academy and career changer with 10 years experience in music production, teaching and business management.
 
-I am excited for a career in tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and I struggle to put it down a problem I haven't solved. I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. 
+I am excited for a career in tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and once I get stuck into a problem, I keep at it until it's solved . I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. 
 
 I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I haven't stopped coding every day since. I am looking for a job with opportunities for collaboration, learning and room to grow. 
 
@@ -30,7 +30,7 @@ I graduated from Makers bootcamp having developed skills in Node.JS, React, Java
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Trail**](https://trailapp.net)            | Greenfield React app created in a four person engineering team in two weeks. Integrates API calls and AI to generate audio tours using TDD, paired programming and Agile principles. | React, JavaScript, HTML, CSS, Jest, Cypress, Git, Vite, Trello Board, Agile Ceremonies (standups and retros) ([GitHub Link](https://tinyurl.com/a5vmybxs)) ([Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)) |
-| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rails, Rspec,PostgreSQL,HTML,CSS, RuboCop |
+| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, RuboCop |
 | [**Taplist Keg Level Manager**](https://tinyurl.com/26pfusx3)                 |Solo personal project, a Docker image that utilises GitHub Actions/Workflow for CI/CD. Docker-compose uses buildx to make the image multi-architecture (currently ARM64 and AMD64 for MacOS and Linux). This React site integrates with taplist.io using API calls to track keg volume levels and indicate when I should brew again. The remaining keg volume is displayed on my digital taplist. | React, JavaScript, Docker, Docker-Compose, Github Actions, HTML, CSS, Jest, Cypress |
 
 <h2 align="center">EDUCATION</h2>
