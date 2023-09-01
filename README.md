@@ -25,7 +25,7 @@ I'm fascinated by how technology is the driving force of progress and underpins 
 
 I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I haven't stopped coding every day since. I am looking for a job with opportunities for collaboration, learning and problem solving. 
 
-<h2 align="center">Projects</h2>
+<h2 align="center">PROJECTS</h2>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -35,12 +35,12 @@ I graduated from Makers bootcamp having developed skills in Node.JS, React, Java
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
-During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:
-Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb.
-Version control through Git and GitHub
-Paired programming - practised everyday, with pairs cycled to include every member of the cohort. 
-I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.
-I worked in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints.
+During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:</br>
+- Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb</br>
+- Version control through Git and GitHub.</br>
+- Paired programming - practised everyday, with pairs cycled to include every member of the cohort.</br> 
+- I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.</br>
+- I worked in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints.</br>
 All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
 <strong>Frontend Masters</strong>- Javascript: The Hard Parts (Aug 2023), Complete Intro to React (July 2023).</br></br>
 <strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
@@ -56,5 +56,8 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 <h5>Time management</h5> Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.</br>
 
 
-Hobbies & interests: Homebrewing, gaming & travel
+<h2 align="center">HOBBIES & INTERESTS</h2> 
+<p align="center">
+  Homebrewing - Gaming - Travel
+</p>
 
