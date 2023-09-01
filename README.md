@@ -48,12 +48,12 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 
 <h2 align="center">WORK EXPERIENCE</h2>
 <strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
-<h5>Problem solving</h5> Helping clients achieve goals, working with requests and adapting to different abilities while ensuring results. I was often called to re-arrange songs into a different style/to suit a different band and would have to find ways of making often wildly different parts fit together.</br>
-<h5>Explaining complex concepts</h5> Music is formulaic and rule based, with its own syntax (like code!). Being able to explain these often difficult concepts to students in a way that they can understand and apply them was key.</br>
-<h5>Applied creativity</h5> Creative thinking within the framework of the client’s work or ideas. E.g. Reimagining songs to fit a client brief in a studio production environment, often under intense scrutiny and pressure.</br>
-<h5>Interpersonal & communication skills</h5> Conveying complex concepts and practical applications to a range of students ages 6-75 (including neurodivergent and SEN students). Teamwork and managing relationships in high pressure environments (e.g. on stage or in a recording session).</br>
-<h5>Stakeholder management</h5> Managing 50+ stakeholders (parents, adult clients, music agencies, studios) requiring timely updates and feedback.</br>
-<h5>Time management</h5> Managing 43+ lessons a week, lesson planning, prep work for gigs and studio sessions and business administration.</br>
+<h5>Problem solving</h5> Adapting lessons or music to differing abilities, while ensuring results. For example, re-arranging songs into a different style and finding ways of making (often wildly different) parts fit together - ultimately, helping clients to achieve their goals.</br>
+<h5>Explaining complex concepts & communication skills</h5> Like code, music is formulaic and rules based, with its own syntax. I explained these often difficult concepts to a range of students aged 6-75 (including neurodivergent and SEN) in a way that they could understand - and 100% of my students passed their music exams with merit or above.</br>
+<h5>Applied creativity</h5> Creative thinking within the framework of the client’s brief. E.g. Reimagining a song so multiple stakeholders (such as artist and producer) could merge their vision of the product. This was often within tight deadlines, delivering to a budget.</br>
+<h5>Interpersonal skills</h5> Managing relationships and working in teams, such as with clients or new groups of musicians, focusing on the best result for the client and ensuring coherent objectives and clear expectations.</br>
+<h5>Stakeholder management</h5> Managing 50+ stakeholders (parents, clients, music agencies, studios) requiring timely updates and feedback, resulting in client loyalty and referrals.</br>
+<h5>Time management</h5> Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
 
 
 <h2 align="center">HOBBIES & INTERESTS</h2> 
