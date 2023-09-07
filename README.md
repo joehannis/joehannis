@@ -19,11 +19,11 @@
 </p>
 
 
-Full Stack Software Engineer, scholarship graduate from Makers Academy and career changer with 10 years experience in music production, teaching and business management.
+<p align="center">
+  <strong>Full Stack Software Engineer, scholarship graduate from Makers Academy and career changer with 10 years experience in music    production, teaching and business management.</strong>
+</p>
 
-I am excited for a career in tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and once I get stuck into a problem, I keep at it until it's solved . I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. 
-
-I graduated from Makers bootcamp having developed skills in Node.JS, React, JavaScript and Ruby, and I have coded every day since. I am looking for a job with opportunities for collaboration, learning and room to grow. 
+I am excited for a career move into tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and once I get stuck into a problem, I keep at it until it is solved. I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. I am looking for a job with opportunities for collaboration, learning and room to grow.
 
 <h2 align="center">PROJECTS</h2>
 
@@ -37,27 +37,25 @@ I graduated from Makers bootcamp having developed skills in Node.JS, React, Java
 <strong>Makers</strong> (April - August 2023)</br></br> 
 During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:</br>
 - Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb</br>
+- Test-Driven Development
 - Version control through Git and GitHub.</br>
 - Paired programming - practised everyday, with pairs cycled to include every member of the cohort.</br> 
-- I am familiar with modelling along the MVC lines, and creating applications following the principles of object-oriented programming.</br>
+- I am familiar with MVC organisation, and creating applications following the principles of object-oriented programming.</br>
 - I worked in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints.</br>
-All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
-<strong>Frontend Masters</strong>- Javascript: The Hard Parts (Aug 2023), Complete Intro to React (July 2023).</br></br>
+- All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
+<strong>Frontend Masters</strong>- Javascript: The Hard Parts (Aug 2023), Complete Intro to React (July 2023), Java Fundamentals (Sept 2023).</br></br>
 <strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
-
-<h2 align="center">Skills</h2>
-<h4>Problem solving</h4> On my Makers final project, our stretch goal was to have the location descriptions read like an audioguide. This required the output of one API call to then be fed to another API call, but the structure of our React application didn't easily allow for this. I rewrote the frontend structure to allow for this flow of data. This implementation solved the issue, also making the application more efficient. This led to a number of design changes that had UX benefits.</br>
-<h4>Communication skills & explaining complex concepts </h4> Like code, music is formulaic and rules based, with its own syntax. I explained these often difficult concepts to a range of students aged 6-75 (including neurodivergent and SEN) in a way that they could understand - and 100% of my students passed their music exams with merit or above. This skill was essential when completing my final project at Makers. We each took ownership of a part of the project and I wrote the code for the backend server and implemented the MVC architecture. I then had to explain how the data was handled to the rest of the team during retros, as well as justifying design choices and challenging others on theirs.</br>
-<h4>Interpersonal skills</h4> When teaching, I adapted lessons to fit different abilities, while ensuring results. When producing music, I'd find ways of making divergent client visions come together. With clients or new groups of musicians, I'd manage team strengths, to ensure a collective focus  on the best result for the client. During my time at Makers, I worked in engineering teams ranging from pairs to groups of 7. I approached  these projects with self-awareness and empathy which contributed to the team having an open dialogue. We enjoyed challenging each other and being challenged, and some of our best decisions came from this spirit of safety and openness, which allowed me to grow as a developer.</br>
 
 <h2 align="center">WORK EXPERIENCE</h2>
 <strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
-<h4>Applied creativity & adaptability</h4> Creative thinking within the framework of the client’s brief. E.g. Reimagining a song so multiple stakeholders (such as artist and producer) could merge their vision of the product. This was often within tight deadlines, delivering to a budget.</br>
-<h4>Stakeholder management</h4> Managing 50+ stakeholders (parents, clients, music agencies, studios) requiring flexibility, timely updates and feedback, and ensuring coherent objectives and clear expectations throughout, resulting in business referrals, and client loyalty of up to 10 years.</br>
-<h4>Time management</h4> Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
-
-<h2 align="center">HOBBIES & INTERESTS</h2> 
-<p align="center">
-  Homebrewing - Gaming - Travel
-</p>
-
+Freelance music teacher, performer, arranger and production assistant.
+<h4>Music Tutor</h4>
+- <strong>Communication skills</strong> - Teaching children (including SEN) and adults up to university level, focused on interventions to help those that needed more support achieve their goals e.g a music grade or university application.</br>
+- <strong>Project management</strong> - Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
+<h4>Independent musician</h4>
+- <strong>Adaptability</strong> - Working in high pressure environments with changing groups of musicians, requiring adaptability to accommodate different client/group working preferences.</br>
+- <strong>Continual self development</strong> in order to maintain/ learn new skills to ensure reliability and repeat custom.</br>
+- <strong>Creative thinking</strong> within the framework of a client’s brief. E.g. Reimagining a song so multiple stakeholders could merge their vision of the product, often within tight deadlines, delivering to a budget.</br>
+- <strong>Attention to detail</strong> - Recreating sounds by researching and using new equipment and technologies to fulfil a brief.</br>
+- <strong>Time management</strong> - Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
+- <strong>Stakeholder management</strong> - Managing 50+ stakeholders (parents, clients, music agencies, studios) requiring flexibility, timely updates and feedback, resulting in business referrals, and client loyalty of up to 10 years.</br>
