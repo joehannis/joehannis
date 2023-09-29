@@ -1,6 +1,6 @@
 <h1 align="center">Joe Hannis</h1>
 
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Software Developer</h2>
 
 <h3 align="center">Technologies & Tools</h3>
 
