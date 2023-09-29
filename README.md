@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <strong>Software Engineer, scholarship graduate from Makers Academy and career changer with 10 years experience in music    production, teaching and business management.</strong>
+  <strong>Scholarship graduate from Makers Academy and career changer with 10 years experience in music    production, teaching and business management.</strong>
 </p>
 
 I am excited for a career move into tech as I want to be continually challenged and part of an industry that is the driving force of progress in all of our lives. I am highly self motivated and once I get stuck into a problem, I keep at it until it is solved. I am passionate about learning new technologies and languages, having recently taught myself to use Docker and Github CI/CD for use in my personal projects. I love the process of learning and I get a kick out of quality, well tested code. I am looking for a job with opportunities for collaboration, learning and room to grow.
