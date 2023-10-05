@@ -29,20 +29,21 @@ I am excited for a career move into tech as I want to be continually challenged 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Trail**](https://trailapp.net)            | Greenfield React app created in a four person engineering team in two weeks. Integrates API calls and AI to generate audio tours using TDD, paired programming and Agile principles. | React, JavaScript, HTML, CSS, Jest, Cypress, VS Code, Git, Vite, Trello Board, Agile Ceremonies (standups and retros) ([GitHub Link](https://tinyurl.com/a5vmybxs)) ([Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)) |
+| [**Trail**](https://trailapp.net)            | Greenfield React app created in a four person engineering team in two weeks. Integrates API calls to AI services to generate audio tours. We used TDD, paired programming and agile principles. | React, JavaScript, HTML, CSS, Jest, Cypress, VS Code, Git, Vite, Trello Board, Agile Ceremonies (standups and retros) ([GitHub Link](https://tinyurl.com/a5vmybxs)) ([Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)) |
 | [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rails, Rspec, PostgreSQL, HTML, CSS, RuboCop, VS Code |
 | [**Taplist Keg Level Manager**](https://tinyurl.com/26pfusx3)                 |Solo personal project, a Docker image that utilises GitHub Actions/Workflow for CI/CD. Docker-compose uses buildx to make the image multi-architecture (currently ARM64 and AMD64 for MacOS and Linux). This React site integrates with taplist.io using API calls to track keg volume levels and indicate when I should brew again. The remaining keg volume is displayed on my digital taplist. | React, JavaScript, Docker, Docker-Compose, Github Actions, HTML, CSS, Jest, Cypress, VS Code |
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
 During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:</br>
-- Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb</br>
-- Test-Driven Development
+- Javascript, Node.js, React,  Jest, Cypress, Ruby, Rails, Rspec, RESTful APIs, SQL, MongoDb.</br>
+- Test-Driven Development.</br>
 - Version control through Git and GitHub.</br>
+- Participating in weekly code reviews.</br>
 - Paired programming - practised everyday, with pairs cycled to include every member of the cohort.</br> 
-- I am familiar with MVC organisation, and creating applications following the principles of object-oriented programming.</br>
-- I worked in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints.</br>
-- All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
+- MVC organisation, and creating applications following the principles of object-oriented programming.</br>
+- Working in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints.</br>
+All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
 <strong>Frontend Masters</strong>- Javascript: The Hard Parts (Aug 2023), Complete Intro to React (July 2023), Java Fundamentals (Sept 2023).</br></br>
 <strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
 
