@@ -30,8 +30,9 @@ Software engineer and bootcamp graduate with experience in React, Vue, Next JS, 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Trail**](https://trailapp.net)            | Greenfield React app created in a four person engineering team in two weeks. Integrates API calls to AI services to generate audio tours. We used TDD, paired programming and agile principles. | React, JavaScript, HTML, CSS, Jest, Cypress, VS Code, Git, Vite, Trello Board, Agile Ceremonies (standups and retros) ([GitHub Link](https://tinyurl.com/a5vmybxs)) ([Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)) |
-| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rspec, PostgreSQL, HTML, CSS, RuboCop, VS Code |
 | [**Taplist Keg Level Manager**](https://tinyurl.com/26pfusx3)                 |Solo personal project, a Docker image that utilises GitHub Actions/Workflow for CI/CD. Docker-compose uses buildx to make the image multi-architecture (currently ARM64 and AMD64 for MacOS and Linux). This React site integrates with taplist.io using API calls to track keg volume levels and indicate when I should brew again. The remaining keg volume is displayed on my digital taplist. | React, JavaScript, Docker, Docker-Compose, Github Actions, HTML, CSS, Jest, Cypress, VS Code |
+| [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rspec, PostgreSQL, HTML, CSS, RuboCop, VS Code |
+| [**Spotify Clone**](http://tinyurl.com/2s36x26s)                |Clone of the Spotify interface using Vue.js and Tailwind. | Vue.js, Tailwind, ESlint, Git, VS Code |
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
