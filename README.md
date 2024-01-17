@@ -47,11 +47,11 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 <strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
 Freelance music tutor and performer.
 
-- <strong>Communication skills</strong> - Teaching children (including SEN) and adults up to university level, focused on interventions to help those that needed more support achieve their goals e.g a music grade or university application.</br>
-- <strong>Customer focused</strong> - Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
-- <strong>Adaptability</strong> - Working in high pressure environments with changing groups of musicians, requiring adaptability to accommodate different client/group working preferences.</br>
-- <strong>Continual self development</strong> in order to maintain/ learn new skills to ensure reliability and repeat custom.</br>
-- <strong>Creative thinking</strong> within the framework of a client’s brief. E.g. Reimagining a song so multiple stakeholders could merge their vision of the product, often within tight deadlines, delivering to a budget.</br>
-- <strong>Attention to detail</strong> - Recreating sounds by researching and using new equipment and technologies to fulfil a brief.</br>
-- <strong>Time management</strong> - Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
-- <strong>Stakeholder management</strong> - Managing 50+ stakeholders (parents, clients, music agencies, studios) requiring flexibility, timely updates and feedback, resulting in business referrals, and client loyalty of up to 10 years.</br>
+- <strong>Communication skills</strong>: Teaching children (including SEN) and adults up to university level, focused on interventions to help those that needed more support achieve their goals e.g a music grade or university application.</br>
+- <strong>Customer focused</strong>: Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
+- <strong>Adaptability</strong>: Working in high pressure environments with changing groups of musicians, requiring adaptability to accommodate different client/group working preferences.</br>
+- <strong>Continual self development</strong>:  Maintaining and learning new skills to ensure reliability and repeat custom.</br>
+- <strong>Creative thinking</strong>: Creative work within the framework of a client’s brief. E.g. Reimagining a song so multiple stakeholders could merge their vision of the product, often within tight deadlines, delivering to a budget.</br>
+- <strong>Attention to detail</strong>: Recreating sounds by researching and using new equipment and technologies to fulfil a brief.</br>
+- <strong>Time management</strong>: Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
+- <strong>Stakeholder management</strong>:  Managing 50+ stakeholders (parents, clients, music agencies, studios) requiring flexibility, timely updates and feedback, resulting in business referrals, and client loyalty of up to 10 years.</br>
