@@ -18,7 +18,7 @@
   <a href="https://github.com/joehannis/joehannis/blob/master/README.md#projects">Projects</a> 
 </p>
 
-Software engineer and former business owner with experience in React, Vue, Next JS, JavaScript, Node.js, Git/GitHub, SQL databases, RESTful APIs, HTML, and CSS. Proponent of agile methodologies, paired programming, TDD, version control and CI/CD pipelines. With a decade of business ownership, I excel in communicating complex concepts to stakeholders, with the self motivation to learn and deliver. I have demonstrated my ability to learn new technologies quickly and to apply them to real-world problems, always with the user at the centre of the solution. I love to learn, never give up on a challenge and I am eager to join a collaborative team. Irish/EU citizen - visa-free employment in UK & EU.
+Software engineer and former business owner with experience in JavaScript, Node.js, React, Ruby, Git/GitHub, SQL databases, RESTful APIs, HTML, CSS and CI/CD pipelines. Proponent of agile methodologies, paired programming and TDD. With a decade of business ownership, I excel in communicating complex concepts to stakeholders, with the self motivation to learn and deliver. I have demonstrated my ability to learn new technologies quickly and to apply them to real-world problems, always with the user at the centre of the solution. I love to learn, never give up on a challenge and I am eager to join a collaborative team. Irish/EU citizen - available for visa-free employment in UK & EU.
 
 <h2 align="center">PROJECTS</h2>
 
