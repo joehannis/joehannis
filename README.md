@@ -31,7 +31,7 @@ Software engineer and bootcamp graduate with experience in React, Vue, Next JS, 
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
-During the 16 week intensive bootcamp I gained experience in Test-Driven Development with the use of:</br>
+During this selective bootcamp I gained experience in:</br>
 - Javascript, Node.js, React,  Jest, Cypress, Ruby, Rspec, RESTful APIs, SQL, MongoDb.</br>
 - Test-Driven Development.</br>
 - Version control through Git and GitHub.</br>
@@ -45,10 +45,10 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 
 <h2 align="center">WORK EXPERIENCE</h2>
 <strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
-Freelance music teacher, performer, arranger and production assistant.
+Freelance music tutor and performer.
 <h4>Music Tutor</h4>
 - <strong>Communication skills</strong> - Teaching children (including SEN) and adults up to university level, focused on interventions to help those that needed more support achieve their goals e.g a music grade or university application.</br>
-- <strong>Project management</strong> - Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
+- <strong>Customer focused</strong> - Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
 <h4>Independent musician</h4>
 - <strong>Adaptability</strong> - Working in high pressure environments with changing groups of musicians, requiring adaptability to accommodate different client/group working preferences.</br>
 - <strong>Continual self development</strong> in order to maintain/ learn new skills to ensure reliability and repeat custom.</br>
