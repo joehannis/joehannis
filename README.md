@@ -27,7 +27,7 @@ Software engineer and former business owner with experience in JavaScript, Node.
 | [**Trail**](https://trailapp.net)            | Greenfield React app created in a four person engineering team in two weeks. Integrates API calls to AI services to generate audio tours. We used TDD, paired programming and agile principles. ([Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)) | React, JavaScript, HTML, CSS, Jest, Cypress, VS Code, Git, Vite, Trello Board, Agile Ceremonies (standups and retros) ([GitHub Link](https://tinyurl.com/a5vmybxs)) |
 | [**Taplist Keg Level Manager**](https://tinyurl.com/26pfusx3)                 |Solo personal project, open-source and currently pulled over 6000 times from Docker Hub. A Docker image that utilises GitHub Actions/Workflow for CI/CD. Docker-compose uses buildx to make the image multi-architecture (currently ARM64 and AMD64 for MacOS and Linux). This React site integrates with taplist.io using API calls to track keg volume levels. The remaining keg volume is displayed on my digital taplist.| React, JavaScript, Docker, Docker-Compose, Github Actions, HTML, CSS, Jest, Cypress, VS Code |
 | [**Chitter**](https://tinyurl.com/2p8umkyf)                 | A Twitter clone. Users can sign up, login and logout. Messages are displayed in reverse chronological order. Uses Postgresql to store user info in database  | Ruby, Rspec, PostgreSQL, HTML, CSS, RuboCop, VS Code |
-| [**Spotify Clone**](http://tinyurl.com/2s36x26s)                |Clone of the Spotify interface using Vue.js and Tailwind. | Vue.js, Tailwind, ESlint, Git, VS Code |
+| [**Beer Recipe Builder**](https://tinyurl.com/bdhkd47e)                | Typescript project to generate brewing recipes using generative AI. Selectors narrow down a beer choice, and then a recipe and instructions are returned along with an AI generated image of the final product. Hosted on Vercel. | React, TypeScript, Tailwind, OpenAI API, Vite, Git, VS Code |
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
@@ -44,6 +44,14 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 <strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
 
 <h2 align="center">WORK EXPERIENCE</h2>
+<strong>Consultant Software Developer at Branue</strong> (Feb 2024-present)(FTC)</br></br>
+
+
+- <strong>Project Leadership and Development</strong>: Spearheading the development of a self-serve quoting tool for a prominent insurance company using Typescript and Next.JS, integrating various third-party APIs to streamline processes and enhance user experience.</br>
+- <strong>Collaborative Project Management</strong>: Collaborating closely with both Branue, a leading branding agency, and the client to meticulously define project scope and translate requirements into comprehensive wireframes, ensuring alignment with brand objectives and user expectations.</br>
+- <strong>Frontend Design</strong>: Translating wireframes and user journeys into code, using TSX and Tailwind CSS.</br>
+
+
 <strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
 Freelance music tutor and performer.
 
