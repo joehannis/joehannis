@@ -44,7 +44,9 @@ All of the work at Makers was conducted using Extreme Programming (XP) principle
 <strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
 
 <h2 align="center">WORK EXPERIENCE</h2>
-<strong>Consultant Software Developer at Branue</strong> (Feb 2024-present)(FTC)</br></br>
+<strong>Technical Support Engineer at Pendo</strong> (May 2024-Present)</br></br>
+
+<strong>Consultant Software Developer at Branue</strong> (Feb 2024-May 2024)(FTC)</br></br>
 
 
 - <strong>Project Leadership and Development</strong>: Spearheading the development of a self-serve quoting tool for a prominent insurance company using Typescript and Next.JS, integrating various third-party APIs to streamline processes and enhance user experience.</br>
