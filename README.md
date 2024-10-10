@@ -58,6 +58,7 @@ Freelance music tutor and performer.
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
+
 Working in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints, I gained experience in:</br>
 - Javascript, Node.js, React,  Jest, Cypress, Ruby, Rspec, RESTful APIs, SQL, MongoDb.</br>
 - Test-Driven Development.</br>
@@ -65,7 +66,9 @@ Working in three self-organising teams leaning on the agile methodology principl
 - Participating in weekly code reviews.</br>
 - Paired programming - practised everyday, with pairs cycled to include every member of the cohort.</br> 
 All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
-<strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br></br>
+
+<strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br>
+
 - Specialist areas of study were music theory, music tuition and guitar performance.</br>
 - I was selected to work as a session musician for the college, playing at exams and events.
 
