@@ -28,7 +28,41 @@ Software engineer and former business owner with proven experience in AI/LLM eng
 | [**Trail**](https://trail-production.up.railway.app/)            | Greenfield React app created in a four person engineering team in two weeks. API calls to Google Cloud and Open AI services to generate audio tours. Link to my presentation about the app & Github link. Hosted on Railway. [Link to my presentation on the app](https://drive.google.com/file/d/1mSIrJ8QDvIhS6k-yOBnWxjJ6bwq7LsCW/view?usp=drive_link)  &   [Link to GitHub Repo](https://tinyurl.com/a5vmybxs) | React, JavaScript, Google Cloud, OpenAI, HTML, CSS, Jest, Cypress, Git, VS Code, Vite, Railway  |
 
 <h2 align="center">WORK EXPERIENCE</h2>
-<strong>Technical Support Engineer at Pendo</strong> (May 2024-Present)</br></br>
+
+<strong>Software Engineer- AI & Integrations at HubBox</strong> (Oct 2025-present)</br></br>
+As an initial hire for a specialized engineering team, I balance core product development with the leadership of an internal AI task force. My role sits at the intersection of architecting scalable cloud infrastructure and building intelligence layers that drive revenue.
+
+​<strong>KEY CONTRIBUTIONS:</strong>
+
+​<strong>REVENUE INTELLIGENCE INFRASTRUCTURE</strong>
+
+• Architected and deployed a secure AI pipeline using AWS CDK that:
+
+- Transforms sales call transcripts into structured data assets.
+
+- Automates the analysis of dialogue against proprietary success frameworks to identify deal-health indicators.
+
+- Integrates with HubSpot, delivering real-time actionable reports to Company records to increase win rates.
+
+​<strong>CORE PRODUCT & AI STRATEGY</strong>
+
+• Lead the end-to-end design of mission-critical features using TypeScript, Node.js, and React, ensuring high performance and type-safe scalability.
+
+• Head an internal task force to identify high-leverage automation opportunities, managing the full lifecycle of custom AI solutions from scoping to secure AWS deployment.
+
+​<strong>STRATEGIC ECOSYSTEM INTEGRATIONS</strong>
+
+• Own the technical roadmap for 3rd-party integrations, expanding product capabilities by connecting with external platforms and services.
+
+• Project Lead (Spike to Launch): Managed the end-to-end integration of one-click payment providers (PayPal and Google Pay).
+
+• Designed the architecture to ensure a frictionless checkout experience with robust security and error handling.
+
+​<strong>CLIENT-FACING ENGINEERING</strong>
+
+• Act as a technical bridge for key stakeholders, scoping complex requirements, debugging implementations, and shipping fixes that directly impact client retention.</br></br>
+
+<strong>Technical Success Engineer at Pendo</strong> (May 2024-Present)</br>
 
 - <strong>Typescript, React and Node.JS Full Stack Development</strong>: Specialist in developing systems integrating APIs with generative AI to increase efficiency and augment employee and customer experiences.</br>
 - <strong>Problem Solving</strong>: Working in the Tier 2 Escalations team, I work on complex issues with integrating the Pendo product into 3rd party services and APIs using my skills as a Javascript and Typescript developer.</br> 
