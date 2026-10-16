@@ -1,6 +1,6 @@
 <h1 align="center">Joe Hannis</h1>
 
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">Software Engineer: AI & Integrations</h2>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/joe-hannis/">LinkedIn</a> | 
@@ -11,11 +11,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,react,ts,js,nodejs,gcp,nextjs,cypress,jest,express,tailwind,babel,docker,arduino,raspberrypi,mongodb,postgres&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ai,ts,js,nodejs,react,nextjs,aws,gcp,vitest,jest,cypress,express,tailwind,babel,docker,postgres,mongodb,arduino,raspberrypi&perline=6" />
   </a>
 </p>
 
-Software engineer and former business owner with proven experience in AI/LLM engineering, JavaScript/TypeScript, Node.JS, React, Google Cloud, CI/CD pipelines and SQL and NoSQL databases. With a decade of business ownership, I excel in communicating complex concepts to stakeholders, with the self motivation to learn and independently deliver. I have demonstrated my ability to learn new technologies quickly and to apply them to real-world problems, always with the user at the centre of the solution. I thrive when problem solving in challenging environments.
+Software Engineer and former business owner specialising in AI/LLM infrastructure, cloud architecture (AWS & GCP), and high-stakes 3rd-party ecosystem integrations. As an initial hire for a specialised engineering team at HubBox, I balance greenfield development in TypeScript, Node.js, React, and AWS CDK with leading the company’s internal AI task force. Having founded and run my own business for a decade before moving into tech, I naturally approach engineering through a commercial lens—taking end-to-end ownership from stakeholder discovery to production deployment.
 
 
 <h2 align="center">PROJECTS</h2>
@@ -29,75 +29,65 @@ Software engineer and former business owner with proven experience in AI/LLM eng
 
 <h2 align="center">WORK EXPERIENCE</h2>
 
-<strong>Software Engineer- AI & Integrations at HubBox</strong> (Oct 2025-present)</br></br>
-As an initial hire for a specialized engineering team, I balance core product development with the leadership of an internal AI task force. My role sits at the intersection of architecting scalable cloud infrastructure and building intelligence layers that drive revenue.
+<strong>Software Engineer: AI & Integrations at HubBox</strong> (Oct 2025 - Present)</br></br>
+As an initial hire for a specialised engineering team, I balance core product development with leading an internal AI task force. My role sits at the intersection of architecting scalable cloud infrastructure, solving high-stakes enterprise blockers, and building intelligence layers that drive revenue.
 
-​<strong>KEY CONTRIBUTIONS:</strong>
+<strong>KEY CONTRIBUTIONS:</strong>
 
-​<strong>REVENUE INTELLIGENCE INFRASTRUCTURE</strong>
+<strong>ENTERPRISE REVENUE & ECOSYSTEM INTEGRATIONS</strong>
 
-• Architected and deployed a secure AI pipeline using AWS CDK that:
+• <strong>Project Lead (EU Carrier Compliance API):</strong> Unblocked a multi-million-dollar enterprise sales pipeline by designing and deploying a custom API for a major European carrier, enabling automated billing address retrieval from order payloads for strict EU cross-border parcel compliance.
 
+• <strong>Project Lead (One-Click Checkout):</strong> Led the end-to-end integration of PayPal and Google Pay, architecting a frictionless checkout experience with robust security and error handling.
+
+• Own the 3rd-party integration roadmap, expanding product capabilities across external platforms.
+
+<strong>REVENUE INTELLIGENCE INFRASTRUCTURE</strong>
+
+• <strong>Project Lead (AI Revenue Pipeline):</strong> Architected and deployed a secure AI pipeline using AWS CDK that:
 - Transforms sales call transcripts into structured data assets.
+- Automates dialogue analysis against proprietary success frameworks to identify deal-health indicators.
+- Integrates with HubSpot, benchmarking prospective deals against historical cohorts and delivering real-time actionable intelligence to Company and Deal records to surface risks and accelerate win rates.
 
-- Automates the analysis of dialogue against proprietary success frameworks to identify deal-health indicators.
+<strong>CORE PRODUCT & AI STRATEGY</strong>
 
-- Integrates with HubSpot, delivering real-time actionable reports to Company records to increase win rates.
+• Head an internal task force to identify high-leverage automation opportunities, managing custom AI solutions from scoping to secure AWS deployment.
 
-​<strong>CORE PRODUCT & AI STRATEGY</strong>
+• Lead end-to-end design of mission-critical features using TypeScript, Node.js, React, and AWS, ensuring high performance and type-safe scalability.
 
-• Lead the end-to-end design of mission-critical features using TypeScript, Node.js, and React, ensuring high performance and type-safe scalability.
+<strong>CLIENT-FACING ENGINEERING</strong>
 
-• Head an internal task force to identify high-leverage automation opportunities, managing the full lifecycle of custom AI solutions from scoping to secure AWS deployment.
+• Act as a technical bridge for key stakeholders, scoping complex requirements, debugging implementations, and shipping fixes that directly impact sales and retention.</br></br>
 
-​<strong>STRATEGIC ECOSYSTEM INTEGRATIONS</strong>
+<strong>Senior Technical Success Engineer at Pendo.io</strong> (Aug 2025 - Oct 2025)</br>
+<strong>Technical Success Engineer at Pendo.io</strong> (May 2024 - Aug 2025)</br>
 
-• Own the technical roadmap for 3rd-party integrations, expanding product capabilities by connecting with external platforms and services.
+- <strong>Enterprise Leadership (Senior TSE)</strong>: Promoted following high-impact ownership of complex API escalations and enterprise retention. Served as Lead Technical Contact for Pendo’s largest global enterprise account (£6M+ ARR), driving technical adoption, custom integrations, and executive stakeholder alignment.</br>
+- <strong>AI & Internal Tooling</strong>: Designed and built full-stack internal systems using TypeScript, React, and Node.js, integrating generative AI with 3rd-party APIs to automate workflows and elevate customer and employee experiences.</br>
+- <strong>Tier 2 Escalation Engineering</strong>: Resolved complex implementation, SDK, and 3rd-party API integration bottlenecks across enterprise web applications using JavaScript, TypeScript, and Python.</br>
+- <strong>Enterprise Technical Advisory</strong>: Partnered directly with client engineering teams and non-technical stakeholders on high-value accounts to scope custom solutions, debug production environments, and protect recurring revenue.</br></br>
 
-• Project Lead (Spike to Launch): Managed the end-to-end integration of one-click payment providers (PayPal and Google Pay).
+<strong>Software Engineering Consultant at Branue</strong> (Feb 2024 - May 2024) (Contract)</br>
 
-• Designed the architecture to ensure a frictionless checkout experience with robust security and error handling.
+- <strong>Full-Stack Delivery</strong>: Architected and built a self-serve insurance quoting platform using TypeScript, Next.js, and Tailwind CSS, integrating multiple 3rd-party underwriting and data APIs to streamline user conversion.</br>
+- <strong>Technical Scoping & UX</strong>: Partnered directly with agency leadership and the end client to define technical scope, translating commercial requirements into user journeys, wireframes, and production code.</br>
+- <strong>Commercial Agility</strong>: Advised stakeholders on technical trade-offs, resource allocation, and architectural alternatives as project budgets and timelines evolved.</br></br>
 
-​<strong>CLIENT-FACING ENGINEERING</strong>
+<strong>Director & Founder at Joe Hannis Guitar Ltd</strong> (Apr 2013 - Apr 2023)</br>
+Founded and directed a profitable private tuition, session performance, and music production business for 10 years prior to transitioning into software engineering.
 
-• Act as a technical bridge for key stakeholders, scoping complex requirements, debugging implementations, and shipping fixes that directly impact client retention.</br></br>
-
-<strong>Technical Success Engineer at Pendo</strong> (May 2024-Present)</br>
-
-- <strong>Typescript, React and Node.JS Full Stack Development</strong>: Specialist in developing systems integrating APIs with generative AI to increase efficiency and augment employee and customer experiences.</br>
-- <strong>Problem Solving</strong>: Working in the Tier 2 Escalations team, I work on complex issues with integrating the Pendo product into 3rd party services and APIs using my skills as a Javascript and Typescript developer.</br> 
-- <strong>Technical Expertise</strong>: As this is a client facing, product-focused role, I also bring my wealth of experience in stakeholder management and customer service to provide technical expertise that is clear and concise. This ensures both technical and non-technical stakeholders can easily understand and act on the information.
-- <strong>Lead contact on the company's largest account, worth over £6m.</strong>
-
-<strong>Consultant Software Developer at Branue</strong> (Feb 2024-May 2024)(FTC)</br>
-
-
-- <strong>Full Stack Development</strong>:  Building a self-serve quoting tool for an insurance company using Typescript and Next.JS, integrating various third-party APIs to streamline processes and enhance user experience. I translated wireframes and user journeys into code, using TSX and Tailwind CSS.</br>
-- <strong>Stakeholder Management</strong>: Collaborating closely with both Branue and the client to meticulously define project scope and translate requirements into comprehensive wireframes, ensuring alignment with brand objectives and user expectations.</br>
-- <strong>Agile Working:</strong>: Throughout the project, I was in regular contact with both parties and able to advise on resource allocation and alternative solutions when budgets and timelines changed.</br>
-
-
-<strong>Director at Joe Hannis Guitar Ltd</strong> (June 2013-April 2023)</br>
-Freelance music tutor and performer.
-
-- <strong>Customer focused</strong>: Achieving defined goals through structured lesson plans. Maintained consistent 100% exam pass rate.</br>
-- <strong>Adaptability</strong>: Working in high pressure environments with changing groups of musicians, requiring adaptability to accommodate different client/group working preferences.</br>
-- <strong>Continual self development</strong>:  Maintaining and learning new skills to ensure reliability and repeat custom.</br>
-- <strong>Time management</strong>: Managing 43+ lessons a week, lesson planning and business administration, as well as prep work for gigs and studio sessions.</br>
+- <strong>Commercial & Operations Management</strong>: Directed all business operations, scheduling, and client acquisition—delivering 43+ weekly client engagements while maintaining up to 10-year client retention.</br>
+- <strong>Stakeholder & Studio Delivery</strong>: Managed relationships across 50+ concurrent stakeholders (recording studios, agencies, and private clients), scoping creative briefs and delivering studio/live production work to strict budgets and deadlines.</br>
+- <strong>Structured Coaching & Outcomes</strong>: Designed bespoke learning roadmaps from beginner to university level (including SEN support), maintaining a 100% exam pass rate across a decade of instruction.</br>
 
 <h2 align="center">EDUCATION</h2>
 <strong>Makers</strong> (April - August 2023)</br></br> 
 
-Working in three self-organising teams leaning on the agile methodology principles such as agile ceremonies and sprints, I gained experience in:</br>
-- Javascript, Node.js, React,  Jest, Cypress, Ruby, Rspec, RESTful APIs, SQL, MongoDb.</br>
-- Test-Driven Development.</br>
-- Version control through Git and GitHub.</br>
-- Participating in weekly code reviews.</br>
-- Paired programming - practised everyday, with pairs cycled to include every member of the cohort.</br> 
-All of the work at Makers was conducted using Extreme Programming (XP) principles.</br></br>
+Intensive software engineering bootcamp focused on Test-Driven Development (TDD), object-oriented design, and agile delivery across JavaScript, TypeScript, Node.js, React, Ruby on Rails, SQL, and MongoDB.</br>
+- <strong>Early GenAI Engineering (Trail)</strong>: Co-engineered a location-based web application integrating generative AI and geospatial APIs to dynamically generate custom audio tours for nearby points of interest.</br>
+- <strong>Engineering Practices</strong>: Delivered full-stack applications in self-organising agile teams using strict CI/CD workflows, Extreme Programming (XP) principles, daily pair programming, and code reviews.</br></br>
 
-<strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010-2013)</br>
+<strong>BA(Hons) Professional Musicianship</strong> Bristol Institute of Modern Music (2010 - 2013)</br>
 
 - Specialist areas of study were music theory, music tuition and guitar performance.</br>
-- I was selected to work as a session musician for the college, playing at exams and events.
-
+- Selected to work as a session musician for the college, playing at exams and events.
